@@ -1,10 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my Homepage!
+## नित्यं विज्ञानसम्पन्नः संशयानां विनाशकः।  
+## सत्यस्य साधकः साक्षी विज्ञानपथगामि च॥
+
+**Welcome to my Homepage!**
