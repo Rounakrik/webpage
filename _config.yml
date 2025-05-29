@@ -13,12 +13,10 @@ author:
   avatar           : "profile.png"
   name             : "Rounak Mukherjee"
   #pronouns         : # example: "she/her"  
-  bio              : "Physics Major (BS-MS) at IISER Bhopal"
+  bio              : "Physics Undergard"
   location         : "Bhopal, India"
-  employer         : "Indian Institute of Science Education and Research Bhopal"
-  uri              : # URL
+  employer         : "IISER Bhopal"
   email            : "rounak21@iiserb.ac.in"
-  email            : "rounakmukherjeenaity@gmail.com"
 
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
