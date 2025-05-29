@@ -11,13 +11,14 @@ repository               : "webpage/rounakrik.github.io"
 author:
   
   avatar           : "profile.png"
-  name             : "Rounak"
+  name             : "Rounak Mukherjee"
   #pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Physics Major (BS-MS) at IISER Bhopal"
+  location         : "Bhopal, India"
+  employer         : "Indian Institute of Science Education and Research Bhopal"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rounak21@iiserb.ac.in"
+  email            : "rounakmukherjeenaity@gmail.com"
 
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
