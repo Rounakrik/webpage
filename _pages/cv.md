@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 # Rounak Mukherjee
 
 **Email**: [rounak21@iiserb.ac.in](mailto:rounak21@iiserb.ac.in), [rounakmukherjeenaity@gmail.com](mailto:rounakmukherjeenaity@gmail.com)  
