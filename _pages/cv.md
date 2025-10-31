@@ -13,7 +13,7 @@ redirect_from:
 **Phone**: +91 8670470354  
 **LinkedIn**: [Rounak Mukherjee](https://www.linkedin.com/in/rounak-mukherjee-iiserb)  
 **Location**: Bhopal, Madhya Pradesh, India  
-**Program**: BS-MS Dual Degree, Natural Sciences (Physics Major) – 4th Year  
+**Program**: BS-MS Dual Degree, Natural Sciences (Physics Major) – 5th Year  
 **Institution**: Indian Institute of Science Education and Research (IISER) Bhopal  
 
 ---
@@ -34,6 +34,8 @@ Passionate about exploring extreme astrophysical phenomena. My research interest
 
 ---
 
+https://github.com/Rounakrik/MR-Characterization-and-Speed-of-Sound-Modelling.git
+
 ## Academic Achievements
 - **NET Qualified** (PhD Only)
 - **INSPIRE Scholarship** – Department of Science and Technology, Govt. of India  
@@ -41,6 +43,20 @@ Passionate about exploring extreme astrophysical phenomena. My research interest
 - **Swami Vivekananda Merit-cum-Means Scholarship** – Govt. of West Bengal  
 - **National Talent Search Scholarship (NTSE)** – NCERT, Govt. of India  
 - **National Means-cum-Merit Scholarship** – Department of School Education and Literacy, Govt. of India  
+
+---
+
+## MS Thesis Projects
+
+### Characterization of MR Curves: Predictions through Machine learning  
+**May 2024 – Aug 2024** (Summer Intern, COAST Group, IISER Bhopal)  
+**Guide**: Dr. Ritam Mallick (Associate Professor, Physics, IISER Bhopal)  
+[GitHub Repo](https://github.com/Rounakrik/MR-Characterization-and-Speed-of-Sound-Modelling)
+
+- Solved TOV equations numerically to generate Mass-Radius (M-R) curves for neutron stars.
+- Applied various equations of state (Polytropic, Tabular, Piece-wise) to analyze Hadronic and Twin Stars.
+- Simulated time evolution and stability using **Einstein Toolkit** and **WhiskyTHC**.
+- Currently developing ML models to identify Twin Star formation conditions. *(Ongoing)*
 
 ---
 
