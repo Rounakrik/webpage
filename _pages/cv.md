@@ -121,13 +121,13 @@ I am a final year BS-MS student at IISER Bhopal. My research interests lie in **
 
 ---
 
-## Technical Skills
+## Skill Sets
 
 - **Numerical Relativity Software**: Einstein Toolkit, WhiskyTHC  
 - **Programming**: Python (NumPy, Pandas, Matplotlib, scikit-learn, kuibit), C (Basics), LaTeX  
 - **Scientific Software**: ORIGIN, MATLAB, Mathematica, IGOR Pro  
 - **Editing Tools**: Adobe Premiere Pro, DaVinci  
-- **Web Development**: Developed [HamaraCampus](http://www.hamaracampus.com) with team  
+- **Web Development**: Developed [HamaraCampus](http://www.hamaracampus.com) with team , Developed and Managing a website for [Bhramman](http://www.bhramman.com)
 
 ---
 
