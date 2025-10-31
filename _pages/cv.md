@@ -48,15 +48,25 @@ https://github.com/Rounakrik/MR-Characterization-and-Speed-of-Sound-Modelling.gi
 
 ## MS Thesis Projects
 
-### Characterization of MR Curves: Predictions through Machine learning  
-**May 2024 – Aug 2024** (Summer Intern, COAST Group, IISER Bhopal)  
+### 1. Characterization of MR Curves: Predictions through Machine learning  (To be Archived Soon*)
+**Jul 2025 – Oct 2025** (COAST Group, IISER Bhopal)  
 **Guide**: Dr. Ritam Mallick (Associate Professor, Physics, IISER Bhopal)  
-[GitHub Repo](https://github.com/Rounakrik/MR-Characterization-and-Speed-of-Sound-Modelling)
+[GitHub Repo](https://github.com/Rounakrik/MR-Characterization-and-Speed-of-Sound-Modelling-Predictions-through-Machine-Learning)
 
-- Solved TOV equations numerically to generate Mass-Radius (M-R) curves for neutron stars.
-- Applied various equations of state (Polytropic, Tabular, Piece-wise) to analyze Hadronic and Twin Stars.
-- Simulated time evolution and stability using **Einstein Toolkit** and **WhiskyTHC**.
-- Currently developing ML models to identify Twin Star formation conditions. *(Ongoing)*
+- Proposed a new methodology for Characterizing (and Representing) MR curves of Neutron Stars.
+- Quantified the Bending properties.
+- Established the reason behind the bending in MR Curves.
+- Connected the Bending with the observations.
+- Established an Unique property for characterizing Equation of States.
+- Used Feature Tokenizer Transformer models for predictions.
+
+---
+
+### 2. A Study of Speed of Sound in Neutron Stars: General Relativistic Calculations
+**Oct 2025 – Present** (COAST Group, IISER Bhopal)  
+**Guide**: Dr. Ritam Mallick (Associate Professor, Physics, IISER Bhopal)  
+
+- Developing a Theoritical framework for Speed of Sound inside Neutron Star.
 
 ---
 
