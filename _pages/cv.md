@@ -20,7 +20,7 @@ redirect_from:
 
 ## Research Interests
 
-Passionate about exploring extreme astrophysical phenomena. My research interests lie in **Nuclear Astrophysics**, **Neutron Stars**, **Cosmology**, and **Numerical Relativity**. I aim to leverage computational physics, advanced simulations, and machine learning techniques to solve complex astrophysical problems and contribute meaningful insights to our understanding of the universe.
+I am a final year BS-MS student at IISER Bhopal. My research interests lie in **Nuclear Astrophysics**, **Compact Objects**, and **Cosmology**. I am interested in the Theoritical aspects of understanding the natural phenomenon in the extremes domains of gravitation. Along with this I have a keen interest in **Machine Learning**, **Deep Learning** and I want to implement these computaional tools to uncover the physical processes in nature. 
 
 ---
 
@@ -33,8 +33,6 @@ Passionate about exploring extreme astrophysical phenomena. My research interest
 | Matriculation | Janai Training High School (WBBSE) | 2019 | 95.28% |
 
 ---
-
-https://github.com/Rounakrik/MR-Characterization-and-Speed-of-Sound-Modelling.git
 
 ## Academic Achievements
 - **NET Qualified** (PhD Only)
@@ -147,7 +145,7 @@ https://github.com/Rounakrik/MR-Characterization-and-Speed-of-Sound-Modelling.gi
 ## Selected Courses Taken
 
 ### Physics  
-Cosmology (PHY630), General Theory of Relativity (PHY616), Quantum Field Theory (PHY615), Nuclear and Particle Physics (PHY404), Introduction to Astronomy and Astrophysics (PHY413), Atomic & Molecular Physics (PHY402), Condensed Matter Physics (PHY403), Electrodynamics (PHY407), Quantum Mechanics (PHY303 & PHY106), Classical Mechanics (PHY305 & PHY101), Thermal Physics (PHY309), Basic Electronics (PHY311), Mathematical Methods (PHY301), Physics Through Computational Thinking (PHY206), and more.
+Standard Model of Particle Physics (PHY639), Cosmology (PHY630), General Theory of Relativity (PHY616), Quantum Field Theory (PHY615), Nuclear and Particle Physics (PHY404), Introduction to Astronomy and Astrophysics (PHY413), Atomic & Molecular Physics (PHY402), Condensed Matter Physics (PHY403), Electrodynamics (PHY407), Quantum Mechanics (PHY303 & PHY106), Classical Mechanics (PHY305 & PHY101), Thermal Physics (PHY309), Basic Electronics (PHY311), Mathematical Methods (PHY301), Physics Through Computational Thinking (PHY206), and more.
 
 ---
 
