@@ -133,6 +133,7 @@ I am a final year BS-MS student at IISER Bhopal. My research interests lie in **
 
 ## Schools & Conferences Attended
 
+- **Sagan Workshop 2025** – Organized by NASA
 - **Nordita Winter School 2025** – Physics of ML & ML for Physics *(Attending)*  
 - **SOKENDAI Asian Winter School 2023** – [Certificate](https://drive.google.com/file/d/17R9gmvshzJTaPpalQfNiHnOCBYfOAdq5/view?usp=share_link)  
 - **Multi-Scale Methods Summer School 2023** – Gdansk University of Technology  
