@@ -28,7 +28,7 @@ I am a final year BS-MS student at IISER Bhopal. My research interests lie in **
 
 | Qualification | Institute | Year | Result |
 | --- | --- | --- | --- |
-| BS-MS | IISER Bhopal | 2021–Present | 8.01/10 (Till 8th semester) |
+| BS-MS | IISER Bhopal | 2021–Present | 8.14/10 (Till 9th semester) |
 | Intermediate / +2 | Janai Training High School (WBCHSE) | 2021 | 96.2% |
 | Matriculation | Janai Training High School (WBBSE) | 2019 | 95.28% |
 
