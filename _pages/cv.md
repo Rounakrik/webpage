@@ -35,7 +35,7 @@ Passionate about exploring extreme astrophysical phenomena. My research interest
 ---
 
 ## Academic Achievements
-
+- **NET Qualified** (PhD Only)
 - **INSPIRE Scholarship** – Department of Science and Technology, Govt. of India  
 - **JBNSTS Fellowship** – Govt. of West Bengal *(Opted out to accept INSPIRE)*  
 - **Swami Vivekananda Merit-cum-Means Scholarship** – Govt. of West Bengal  
